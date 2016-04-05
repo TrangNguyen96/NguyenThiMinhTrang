@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#center{
+width:1000px;
+min-height: 500px;
+margin: 0px auto;
+background:#ffffff;
+float:center;
+border: 1px solid black;
+}
+
+#hinh1{
+	margin-left: 350px;
+}
+
+.h_nav ul li {
+	font-size: 20px;
+	font-family: Arial;
+	color: #000;
+	display: inline-block;
+	list-style-type:none;
+	float:left;
+	padding: 15px 45px;
+	border-bottom: 2px solid #000;
+	text-decoration: none;
+}
+
+.h_nav ul li:first-child{
+	    padding-left: 150px;
+}
+.h_nav ul li a:hover{
+	color: red;
+	background:yellow;
+}	
+#doanvan{
+	text-align: center;
+	padding: 30px;
+}
+#p{
+	clear:both;
+
+}
+#hinh>img:first-child{
+	margin-left: 75px;
+}
